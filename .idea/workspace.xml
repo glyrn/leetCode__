@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230522_59螺旋矩阵">
-      <change afterPath="$PROJECT_DIR$/src/array/jzOffer_29.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230523_jzoffer29_顺时针打印矩阵">
+      <change afterPath="$PROJECT_DIR$/src/array/a54.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -61,7 +61,8 @@
       <updated>1684664422652</updated>
       <workItem from="1684664424938" duration="5894000" />
       <workItem from="1684754766402" duration="3485000" />
-      <workItem from="1684839712829" duration="3495000" />
+      <workItem from="1684839712829" duration="4424000" />
+      <workItem from="1684895403395" duration="1470000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -84,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684757588743</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20230523_jzoffer29_顺时针打印矩阵">
+      <created>1684844682284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684844682284</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +113,11 @@
     <MESSAGE value="20230521_数组76_最短覆盖子序列_hard" />
     <MESSAGE value="增加注解" />
     <MESSAGE value="20230522_59螺旋矩阵" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230522_59螺旋矩阵" />
+    <MESSAGE value="20230523_jzoffer29_顺时针打印矩阵" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230523_jzoffer29_顺时针打印矩阵" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
