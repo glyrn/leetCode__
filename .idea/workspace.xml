@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230528_l24_翻转两元素—mid（easy）">
-      <change afterPath="$PROJECT_DIR$/src/link/l19.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230529_l19_daoshu">
+      <change afterPath="$PROJECT_DIR$/src/link/l0207.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,8 @@
       <workItem from="1685193849121" duration="2417000" />
       <workItem from="1685261093145" duration="35000" />
       <workItem from="1685282061791" duration="1025000" />
-      <workItem from="1685363427526" duration="1578000" />
+      <workItem from="1685363427526" duration="1865000" />
+      <workItem from="1685444289787" duration="1409000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -126,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685283064191</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="20230529_l19_daoshu">
+      <created>1685365281428</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685365281428</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +161,8 @@
     <MESSAGE value="20230527_l707_构造链表—easy" />
     <MESSAGE value="20230527_l24_翻转两元素—mid（easy）" />
     <MESSAGE value="20230528_l24_翻转两元素—mid（easy）" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230528_l24_翻转两元素—mid（easy）" />
+    <MESSAGE value="20230529_l19_daoshu" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230529_l19_daoshu" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
