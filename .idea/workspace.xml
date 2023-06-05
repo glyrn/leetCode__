@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230602_s225——队列实现栈">
-      <change afterPath="$PROJECT_DIR$/src/statck_Queue/s20.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230604_s20——有效括号">
+      <change afterPath="$PROJECT_DIR$/src/statck_Queue/s1047.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,16 +34,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "D:/leetCode__",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/leetCode__&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="应用程序.jdbc">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -85,7 +88,8 @@
       <workItem from="1685625675922" duration="801000" />
       <workItem from="1685695706146" duration="699000" />
       <workItem from="1685708759624" duration="4211000" />
-      <workItem from="1685883671371" duration="2275000" />
+      <workItem from="1685883671371" duration="3046000" />
+      <workItem from="1685966073571" duration="2129000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -171,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685714608105</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="20230604_s20——有效括号">
+      <created>1685886309035</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685886309035</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +213,8 @@
     <MESSAGE value="20230530_l0204_链表相交" />
     <MESSAGE value="20230531_l142——寻找环入口" />
     <MESSAGE value="20230602_s225——队列实现栈" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230602_s225——队列实现栈" />
+    <MESSAGE value="20230604_s20——有效括号" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230604_s20——有效括号" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
