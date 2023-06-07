@@ -4,8 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230605_s1047——删除重复项">
-      <change afterPath="$PROJECT_DIR$/src/statck_Queue/s150.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230606_s150——后缀表达式">
+      <change afterPath="$PROJECT_DIR$/src/statck_Queue/s239.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,16 +34,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "D:/leetCode__",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/leetCode__&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="应用程序.jdbc">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -90,7 +90,8 @@
       <workItem from="1685708759624" duration="4211000" />
       <workItem from="1685883671371" duration="3046000" />
       <workItem from="1685966073571" duration="2349000" />
-      <workItem from="1686026209013" duration="1871000" />
+      <workItem from="1686026209013" duration="3390000" />
+      <workItem from="1686119996542" duration="4234000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -190,7 +191,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685969192800</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="20230606_s150——后缀表达式">
+      <created>1686028479795</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686028479795</updated>
+    </task>
+    <task id="LOCAL-00016" summary="20230606_s150——后缀表达式">
+      <created>1686028647072</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686028647072</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +238,8 @@
     <MESSAGE value="20230602_s225——队列实现栈" />
     <MESSAGE value="20230604_s20——有效括号" />
     <MESSAGE value="20230605_s1047——删除重复项" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230605_s1047——删除重复项" />
+    <MESSAGE value="20230606_s150——后缀表达式" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230606_s150——后缀表达式" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
