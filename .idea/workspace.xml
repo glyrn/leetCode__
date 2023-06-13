@@ -4,8 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230611_d62——到达有几种方法">
-      <change afterPath="$PROJECT_DIR$/src/hash/h242.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230611_h242——比较错位字符串">
+      <change afterPath="$PROJECT_DIR$/src/hash/h349.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +101,8 @@
       <workItem from="1686317846309" duration="1340000" />
       <workItem from="1686387295236" duration="2239000" />
       <workItem from="1686468761106" duration="1710000" />
-      <workItem from="1686537482104" duration="1149000" />
+      <workItem from="1686537482104" duration="1947000" />
+      <workItem from="1686644255580" duration="1904000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -236,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686469369610</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="20230611_h242——比较错位字符串">
+      <created>1686538829830</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1686538829830</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +281,8 @@
     <MESSAGE value="20230606_s239——滑动窗口最大值" />
     <MESSAGE value="20230606_d509——fib" />
     <MESSAGE value="20230611_d62——到达有几种方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230611_d62——到达有几种方法" />
+    <MESSAGE value="20230611_h242——比较错位字符串" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230611_h242——比较错位字符串" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
