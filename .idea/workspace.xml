@@ -4,10 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230613_h242——比较错位字符串">
-      <change afterPath="$PROJECT_DIR$/src/hash/h15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/h18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/h202.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230613_h15, 18, 202——三数之和、四数之和">
+      <change afterPath="$PROJECT_DIR$/src/字符串/z344.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +107,8 @@
       <workItem from="1686705374027" duration="3395000" />
       <workItem from="1686838407670" duration="611000" />
       <workItem from="1687000472795" duration="3173000" />
-      <workItem from="1687056738403" duration="1167000" />
+      <workItem from="1687056738403" duration="1344000" />
+      <workItem from="1687142758634" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -258,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686646751926</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="20230613_h15, 18, 202——三数之和、四数之和">
+      <created>1687058027931</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1687058027931</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +303,8 @@
     <MESSAGE value="20230611_d62——到达有几种方法" />
     <MESSAGE value="20230611_h242——比较错位字符串" />
     <MESSAGE value="20230613_h242——比较错位字符串" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230613_h242——比较错位字符串" />
+    <MESSAGE value="20230613_h15, 18, 202——三数之和、四数之和" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230613_h15, 18, 202——三数之和、四数之和" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
