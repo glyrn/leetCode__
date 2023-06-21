@@ -4,8 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230619_z344翻转字符串">
-      <change afterPath="$PROJECT_DIR$/src/字符串/z541.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230620_br-z541_翻转字符串2">
+      <change afterPath="$PROJECT_DIR$/src/字符串/z_jz05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +109,8 @@
       <workItem from="1687000472795" duration="3173000" />
       <workItem from="1687056738403" duration="1344000" />
       <workItem from="1687142758634" duration="1141000" />
-      <workItem from="1687228183001" duration="2069000" />
+      <workItem from="1687228183001" duration="2306000" />
+      <workItem from="1687355686123" duration="433000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -272,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687143852968</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="20230620_br-z541_翻转字符串2">
+      <created>1687230456444</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1687230456444</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +291,50 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -313,7 +364,8 @@
     <MESSAGE value="20230613_h242——比较错位字符串" />
     <MESSAGE value="20230613_h15, 18, 202——三数之和、四数之和" />
     <MESSAGE value="20230619_z344翻转字符串" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230619_z344翻转字符串" />
+    <MESSAGE value="20230620_br-z541_翻转字符串2" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230620_br-z541_翻转字符串2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
