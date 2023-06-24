@@ -4,8 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230621_br-z_jz05-替换空格">
-      <change afterPath="$PROJECT_DIR$/src/字符串/z151.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230622_br-z_z151-翻转单词">
+      <change afterPath="$PROJECT_DIR$/src/字符串/z_Offer58.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/leetCode__&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;cn.yiiguxing.plugin.translate&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/leetCode__",
+    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="应用程序.jdbc">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -111,7 +111,9 @@
       <workItem from="1687142758634" duration="1141000" />
       <workItem from="1687228183001" duration="2306000" />
       <workItem from="1687355686123" duration="813000" />
-      <workItem from="1687440593044" duration="1684000" />
+      <workItem from="1687440593044" duration="1773000" />
+      <workItem from="1687498269013" duration="412000" />
+      <workItem from="1687599554942" duration="2406000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -288,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687356378405</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="20230622_br-z_z151-翻转单词">
+      <created>1687442343346</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1687442343346</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +358,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230521_数组76_最短覆盖子序列_hard" />
     <MESSAGE value="增加注解" />
     <MESSAGE value="20230522_59螺旋矩阵" />
     <MESSAGE value="20230523_jzoffer29_顺时针打印矩阵" />
@@ -374,7 +382,8 @@
     <MESSAGE value="20230619_z344翻转字符串" />
     <MESSAGE value="20230620_br-z541_翻转字符串2" />
     <MESSAGE value="20230621_br-z_jz05-替换空格" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230621_br-z_jz05-替换空格" />
+    <MESSAGE value="20230622_br-z_z151-翻转单词" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230622_br-z_z151-翻转单词" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
