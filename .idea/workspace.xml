@@ -4,9 +4,10 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230622_br-z_z151-翻转单词">
-      <change afterPath="$PROJECT_DIR$/src/字符串/z_Offer58.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230624_z_Offer58_左旋字符">
+      <change afterPath="$PROJECT_DIR$/src/字符串/z28.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/字符串/z_Offer58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/字符串/z_Offer58.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -36,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -113,7 +116,9 @@
       <workItem from="1687355686123" duration="813000" />
       <workItem from="1687440593044" duration="1773000" />
       <workItem from="1687498269013" duration="412000" />
-      <workItem from="1687599554942" duration="2406000" />
+      <workItem from="1687599554942" duration="3469000" />
+      <workItem from="1687659375091" duration="71000" />
+      <workItem from="1687695511010" duration="1653000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -297,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687442343346</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="20230624_z_Offer58_左旋字符">
+      <created>1687606876267</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1687606876267</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +370,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="增加注解" />
     <MESSAGE value="20230522_59螺旋矩阵" />
     <MESSAGE value="20230523_jzoffer29_顺时针打印矩阵" />
     <MESSAGE value="20230524_a54_螺旋矩阵—mid" />
@@ -383,7 +394,8 @@
     <MESSAGE value="20230620_br-z541_翻转字符串2" />
     <MESSAGE value="20230621_br-z_jz05-替换空格" />
     <MESSAGE value="20230622_br-z_z151-翻转单词" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230622_br-z_z151-翻转单词" />
+    <MESSAGE value="20230624_z_Offer58_左旋字符" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230624_z_Offer58_左旋字符" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
