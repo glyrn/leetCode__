@@ -1,9 +1,12 @@
 package doubleTree;
 
+import com.sun.source.tree.Tree;
+
 import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Stack;
 
 public class T94 {
 }
@@ -22,22 +25,49 @@ public class T94 {
  *     }
  * }
  */
+//class Solution {
+//    public List<Integer> inorderTraversal(TreeNode root) {
+//        ArrayList<Integer> arrayList = new ArrayList<>();
+//        resverse(root, arrayList);
+//        return arrayList;
+//    }
+//    public void resverse(TreeNode root, ArrayList<Integer> arrayList){
+//
+//        if (root == null){
+//            return;
+//        }
+//
+//        resverse(root.left, arrayList);
+//
+//        arrayList.add(root.val);
+//
+//        resverse(root.right,arrayList);
+//    }
+//}
+
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        ArrayList<Integer> arrayList = new ArrayList<>();
-        resverse(root, arrayList);
-        return arrayList;
+    ArrayList<Integer> arrayList = new ArrayList<>();
+    resverse(root, arrayList);
+    return arrayList;
     }
-    public void resverse(TreeNode root, ArrayList<Integer> arrayList){
 
+    public void resverse(TreeNode root, ArrayList<Integer> arrayList){
         if (root == null){
             return;
         }
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode cur = root;
+        while(cur != null || !stack.isEmpty()){
+            if (cur!= null){
+                stack.push(cur);
+                cur = cur.left;
+            }else {
+                cur = stack.pop();
+                arrayList.add(cur.val);
+                cur = cur.right; // 关键
+            }
+        }
 
-        resverse(root.left, arrayList);
-
-        arrayList.add(root.val);
-
-        resverse(root.right,arrayList);
     }
 }

@@ -4,11 +4,13 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230625_z_Offer58_左旋字符——算法优化">
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T94.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230628_doubleTree递归遍历">
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T107.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doubleTree/T144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleTree/T144.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doubleTree/T145.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleTree/T145.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doubleTree/T94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleTree/T94.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +127,19 @@
       <workItem from="1687864881577" duration="176000" />
       <workItem from="1687876564107" duration="285000" />
       <workItem from="1687949784591" duration="13000" />
-      <workItem from="1687962740667" duration="301000" />
+      <workItem from="1687962740667" duration="382000" />
+      <workItem from="1687965630508" duration="23000" />
+      <workItem from="1688037121430" duration="28000" />
+      <workItem from="1688134679425" duration="673000" />
+      <workItem from="1688192507411" duration="107000" />
+      <workItem from="1688307715293" duration="796000" />
+      <workItem from="1688378615471" duration="603000" />
+      <workItem from="1688393793080" duration="1514000" />
+      <workItem from="1688462670829" duration="13000" />
+      <workItem from="1688479619611" duration="977000" />
+      <workItem from="1688566344529" duration="1112000" />
+      <workItem from="1688990041712" duration="282000" />
+      <workItem from="1688997993641" duration="660000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -323,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687697493380</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="20230628_doubleTree递归遍历">
+      <created>1687963098199</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1687963098199</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230523_jzoffer29_顺时针打印矩阵" />
     <MESSAGE value="20230524_a54_螺旋矩阵—mid" />
     <MESSAGE value="20230525_l203_螺旋矩阵—easy" />
     <MESSAGE value="20230527_l707_构造链表—easy" />
@@ -409,7 +429,8 @@
     <MESSAGE value="20230622_br-z_z151-翻转单词" />
     <MESSAGE value="20230624_z_Offer58_左旋字符" />
     <MESSAGE value="20230625_z_Offer58_左旋字符——算法优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230625_z_Offer58_左旋字符——算法优化" />
+    <MESSAGE value="20230628_doubleTree递归遍历" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230628_doubleTree递归遍历" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
