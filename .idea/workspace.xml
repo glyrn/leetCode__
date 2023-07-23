@@ -4,8 +4,15 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230711_层次遍历平均">
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T429.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230713_层次遍历N孩子">
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T515.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T572.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +31,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/util/Queue.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/util/Stack.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -35,23 +46,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/leetCode__&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;cn.yiiguxing.plugin.translate&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/leetCode__",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "sshConsole",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="应用程序.jdbc">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -75,6 +87,11 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="SSH_CONFIG" />
+    <option name="myConnectionId" value="root@hadoop100:22 password" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="" />
@@ -140,7 +157,14 @@
       <workItem from="1689083806364" duration="503000" />
       <workItem from="1689140476335" duration="12000" />
       <workItem from="1689171245227" duration="1104000" />
-      <workItem from="1689248944126" duration="1222000" />
+      <workItem from="1689248944126" duration="1853000" />
+      <workItem from="1689356876914" duration="1979000" />
+      <workItem from="1689434935789" duration="2601000" />
+      <workItem from="1689593302326" duration="22000" />
+      <workItem from="1689702034125" duration="2262000" />
+      <workItem from="1689773132599" duration="610000" />
+      <workItem from="1689858204746" duration="1831000" />
+      <workItem from="1690118005365" duration="3606000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -359,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689172339988</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="20230713_层次遍历N孩子">
+      <created>1689250243192</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1689250243192</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230527_l707_构造链表—easy" />
     <MESSAGE value="20230527_l24_翻转两元素—mid（easy）" />
     <MESSAGE value="20230528_l24_翻转两元素—mid（easy）" />
     <MESSAGE value="20230529_l19_daoshu" />
@@ -445,7 +475,8 @@
     <MESSAGE value="20230628_doubleTree递归遍历" />
     <MESSAGE value="20230710_二叉树大杂烩——考试look look" />
     <MESSAGE value="20230711_层次遍历平均" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230711_层次遍历平均" />
+    <MESSAGE value="20230713_层次遍历N孩子" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230713_层次遍历N孩子" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
