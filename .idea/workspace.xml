@@ -4,15 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230713_层次遍历N孩子">
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T515.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T572.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230723_递归子树问题之前">
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T257.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +158,11 @@
       <workItem from="1689702034125" duration="2262000" />
       <workItem from="1689773132599" duration="610000" />
       <workItem from="1689858204746" duration="1831000" />
-      <workItem from="1690118005365" duration="3606000" />
+      <workItem from="1690118005365" duration="4291000" />
+      <workItem from="1690211489229" duration="3901000" />
+      <workItem from="1690525722929" duration="65000" />
+      <workItem from="1690556997221" duration="2351000" />
+      <workItem from="1690637626481" duration="1958000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -390,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689250243192</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="20230723_递归子树问题之前">
+      <created>1690121930406</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1690121930406</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +456,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230527_l24_翻转两元素—mid（easy）" />
     <MESSAGE value="20230528_l24_翻转两元素—mid（easy）" />
     <MESSAGE value="20230529_l19_daoshu" />
     <MESSAGE value="20230530_l0204_链表相交" />
@@ -476,7 +480,8 @@
     <MESSAGE value="20230710_二叉树大杂烩——考试look look" />
     <MESSAGE value="20230711_层次遍历平均" />
     <MESSAGE value="20230713_层次遍历N孩子" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230713_层次遍历N孩子" />
+    <MESSAGE value="20230723_递归子树问题之前" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230723_递归子树问题之前" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
