@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230723_递归子树问题之前">
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T513.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doubleTree/T257.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleTree/T257.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +165,12 @@
       <workItem from="1690525722929" duration="65000" />
       <workItem from="1690556997221" duration="2351000" />
       <workItem from="1690637626481" duration="1958000" />
+      <workItem from="1690731276709" duration="1701000" />
+      <workItem from="1690784056835" duration="5000" />
+      <workItem from="1690904598734" duration="1146000" />
+      <workItem from="1690982376597" duration="2036000" />
+      <workItem from="1691025757003" duration="13000" />
+      <workItem from="1691072188489" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
