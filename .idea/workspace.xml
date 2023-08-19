@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230803_📕树路径等于目标和">
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T617.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doubleTree/T112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/doubleTree/T112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T700.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,6 +176,7 @@
       <workItem from="1691804383612" duration="76000" />
       <workItem from="1692026871698" duration="2185000" />
       <workItem from="1692113762040" duration="829000" />
+      <workItem from="1692455306909" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
