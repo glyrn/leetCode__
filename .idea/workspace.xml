@@ -4,8 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230803_📕树路径等于目标和">
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T700.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230819-搜索子树700-easy">
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +177,8 @@
       <workItem from="1691804383612" duration="76000" />
       <workItem from="1692026871698" duration="2185000" />
       <workItem from="1692113762040" duration="829000" />
-      <workItem from="1692455306909" duration="330000" />
+      <workItem from="1692455306909" duration="406000" />
+      <workItem from="1692544359141" duration="2975000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -416,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691072646618</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="20230819-搜索子树700-easy">
+      <created>1692455700626</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1692455700626</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230529_l19_daoshu" />
     <MESSAGE value="20230530_l0204_链表相交" />
     <MESSAGE value="20230531_l142——寻找环入口" />
     <MESSAGE value="20230602_s225——队列实现栈" />
@@ -502,7 +510,8 @@
     <MESSAGE value="20230713_层次遍历N孩子" />
     <MESSAGE value="20230723_递归子树问题之前" />
     <MESSAGE value="20230803_树路径等于目标和" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230803_树路径等于目标和" />
+    <MESSAGE value="20230819-搜索子树700-easy" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230819-搜索子树700-easy" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
