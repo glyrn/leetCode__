@@ -4,9 +4,17 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230826-236-mid-寻找树最近的公共祖先📕">
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T701.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230829-701-mid-插入搜素📕">
+      <change afterPath="$PROJECT_DIR$/src/doubleTree/T450.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/l1768.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/traceBack/tb77.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +55,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/leetCode__&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/delivery-platform-server&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;sshConsole&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -58,7 +66,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.jdbc">
+  <component name="RunManager" selected="应用程序.test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="leetCode__" />
@@ -73,8 +81,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="leetCode__" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.test" />
         <item itemvalue="应用程序.jdbc" />
         <item itemvalue="应用程序.Main" />
       </list>
@@ -188,7 +204,18 @@
       <workItem from="1693057148492" duration="2956000" />
       <workItem from="1693105604846" duration="33000" />
       <workItem from="1693135801334" duration="3671000" />
-      <workItem from="1693319762068" duration="2245000" />
+      <workItem from="1693319762068" duration="3906000" />
+      <workItem from="1693359796902" duration="3064000" />
+      <workItem from="1693571210193" duration="102000" />
+      <workItem from="1693582032511" duration="438000" />
+      <workItem from="1693633852081" duration="21000" />
+      <workItem from="1693667470199" duration="1313000" />
+      <workItem from="1693722355075" duration="9000" />
+      <workItem from="1693798122437" duration="66000" />
+      <workItem from="1693834558012" duration="3071000" />
+      <workItem from="1693918726766" duration="5697000" />
+      <workItem from="1693985993705" duration="170000" />
+      <workItem from="1694001029488" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -442,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693059646529</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="20230829-701-mid-插入搜素📕">
+      <created>1693322449923</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1693322449923</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +537,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230531_l142——寻找环入口" />
     <MESSAGE value="20230602_s225——队列实现栈" />
     <MESSAGE value="20230604_s20——有效括号" />
     <MESSAGE value="20230605_s1047——删除重复项" />
@@ -528,7 +561,8 @@
     <MESSAGE value="20230803_树路径等于目标和" />
     <MESSAGE value="20230819-搜索子树700-easy" />
     <MESSAGE value="20230826-236-mid-寻找树最近的公共祖先" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230826-236-mid-寻找树最近的公共祖先" />
+    <MESSAGE value="20230829-701-mid-插入搜素" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230829-701-mid-插入搜素" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
