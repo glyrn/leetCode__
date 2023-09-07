@@ -4,17 +4,12 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230829-701-mid-插入搜素📕">
-      <change afterPath="$PROJECT_DIR$/src/doubleTree/T450.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/l1768.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/traceBack/tb77.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230906">
+      <change afterPath="$PROJECT_DIR$/src/jz/j18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -215,7 +210,8 @@
       <workItem from="1693834558012" duration="3071000" />
       <workItem from="1693918726766" duration="5697000" />
       <workItem from="1693985993705" duration="170000" />
-      <workItem from="1694001029488" duration="1412000" />
+      <workItem from="1694001029488" duration="2187000" />
+      <workItem from="1694086206450" duration="2353000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -476,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693322449923</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="20230906">
+      <created>1694002615215</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1694002615215</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230602_s225——队列实现栈" />
     <MESSAGE value="20230604_s20——有效括号" />
     <MESSAGE value="20230605_s1047——删除重复项" />
     <MESSAGE value="20230606_s150——后缀表达式" />
@@ -562,7 +564,8 @@
     <MESSAGE value="20230819-搜索子树700-easy" />
     <MESSAGE value="20230826-236-mid-寻找树最近的公共祖先" />
     <MESSAGE value="20230829-701-mid-插入搜素" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230829-701-mid-插入搜素" />
+    <MESSAGE value="20230906" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230906" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
