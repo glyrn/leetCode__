@@ -4,12 +4,14 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230906">
-      <change afterPath="$PROJECT_DIR$/src/jz/j18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j35.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230907-剑指日常">
+      <change afterPath="$PROJECT_DIR$/src/jz/j21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j58_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +52,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/delivery-platform-server&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/leetCode__&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;sshConsole&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -211,7 +213,10 @@
       <workItem from="1693918726766" duration="5697000" />
       <workItem from="1693985993705" duration="170000" />
       <workItem from="1694001029488" duration="2187000" />
-      <workItem from="1694086206450" duration="2353000" />
+      <workItem from="1694086206450" duration="2903000" />
+      <workItem from="1694154266590" duration="3794000" />
+      <workItem from="1694272763030" duration="6101000" />
+      <workItem from="1694311226889" duration="2396000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -479,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694002615215</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="20230907-剑指日常">
+      <created>1694088640608</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1694088640608</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230604_s20——有效括号" />
     <MESSAGE value="20230605_s1047——删除重复项" />
     <MESSAGE value="20230606_s150——后缀表达式" />
     <MESSAGE value="20230606_s239——滑动窗口最大值" />
@@ -565,7 +576,8 @@
     <MESSAGE value="20230826-236-mid-寻找树最近的公共祖先" />
     <MESSAGE value="20230829-701-mid-插入搜素" />
     <MESSAGE value="20230906" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230906" />
+    <MESSAGE value="20230907-剑指日常" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230907-剑指日常" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
