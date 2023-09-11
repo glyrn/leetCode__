@@ -4,14 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230907-剑指日常">
-      <change afterPath="$PROJECT_DIR$/src/jz/j21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j58_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j9.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230910-剑指日常">
+      <change afterPath="$PROJECT_DIR$/src/jz/j59_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,24 +39,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/leetCode__&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/leetCode__",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="应用程序.test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -216,7 +210,8 @@
       <workItem from="1694086206450" duration="2903000" />
       <workItem from="1694154266590" duration="3794000" />
       <workItem from="1694272763030" duration="6101000" />
-      <workItem from="1694311226889" duration="2396000" />
+      <workItem from="1694311226889" duration="4013000" />
+      <workItem from="1694415928401" duration="1518000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -491,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694088640608</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="20230910-剑指日常">
+      <created>1694313708934</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1694313708934</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230605_s1047——删除重复项" />
     <MESSAGE value="20230606_s150——后缀表达式" />
     <MESSAGE value="20230606_s239——滑动窗口最大值" />
     <MESSAGE value="20230606_d509——fib" />
@@ -577,7 +578,8 @@
     <MESSAGE value="20230829-701-mid-插入搜素" />
     <MESSAGE value="20230906" />
     <MESSAGE value="20230907-剑指日常" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230907-剑指日常" />
+    <MESSAGE value="20230910-剑指日常" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230910-剑指日常" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
