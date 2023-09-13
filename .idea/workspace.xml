@@ -4,8 +4,12 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230910-剑指日常">
-      <change afterPath="$PROJECT_DIR$/src/jz/j59_2.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230911-剑指日常-滑动窗口最大值">
+      <change afterPath="$PROJECT_DIR$/src/bat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j53_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j53_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +61,16 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.test">
+  <component name="RunManager" selected="应用程序.bat">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="leetCode__" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bat" />
       <module name="leetCode__" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.bat" />
         <item itemvalue="应用程序.test" />
         <item itemvalue="应用程序.jdbc" />
         <item itemvalue="应用程序.Main" />
@@ -211,7 +223,9 @@
       <workItem from="1694154266590" duration="3794000" />
       <workItem from="1694272763030" duration="6101000" />
       <workItem from="1694311226889" duration="4013000" />
-      <workItem from="1694415928401" duration="1518000" />
+      <workItem from="1694415928401" duration="3299000" />
+      <workItem from="1694521724272" duration="47000" />
+      <workItem from="1694564381437" duration="820000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -493,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694313708934</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="20230911-剑指日常-滑动窗口最大值">
+      <created>1694417563764</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1694417563764</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,7 +575,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230606_s150——后缀表达式" />
     <MESSAGE value="20230606_s239——滑动窗口最大值" />
     <MESSAGE value="20230606_d509——fib" />
     <MESSAGE value="20230611_d62——到达有几种方法" />
@@ -579,7 +599,8 @@
     <MESSAGE value="20230906" />
     <MESSAGE value="20230907-剑指日常" />
     <MESSAGE value="20230910-剑指日常" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230910-剑指日常" />
+    <MESSAGE value="20230911-剑指日常-滑动窗口最大值" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230911-剑指日常-滑动窗口最大值" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
