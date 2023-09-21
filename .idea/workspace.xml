@@ -4,11 +4,17 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230913-剑指日常-ccc!-&gt;ooo">
-      <change afterPath="$PROJECT_DIR$/src/jz/j04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j32_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j50.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230915-剑指日常-nonono | _ |">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j32_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/j32_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jz/j32_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jz/j32_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,24 +47,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/leetCode__&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/leetCode__",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="应用程序.bat">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -226,7 +233,14 @@
       <workItem from="1694564381437" duration="1434000" />
       <workItem from="1694701164757" duration="595000" />
       <workItem from="1694766053685" duration="25000" />
-      <workItem from="1694784539297" duration="1743000" />
+      <workItem from="1694784539297" duration="2368000" />
+      <workItem from="1694849579853" duration="2628000" />
+      <workItem from="1694868968551" duration="147000" />
+      <workItem from="1695002942999" duration="3208000" />
+      <workItem from="1695018164213" duration="563000" />
+      <workItem from="1695217417066" duration="2423000" />
+      <workItem from="1695260455244" duration="11000" />
+      <workItem from="1695296604394" duration="8301000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -522,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694565317972</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="20230915-剑指日常-nonono | _ |">
+      <created>1694786342976</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1694786342976</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,7 +604,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230606_d509——fib" />
     <MESSAGE value="20230611_d62——到达有几种方法" />
     <MESSAGE value="20230611_h242——比较错位字符串" />
     <MESSAGE value="20230613_h242——比较错位字符串" />
@@ -608,7 +628,8 @@
     <MESSAGE value="20230910-剑指日常" />
     <MESSAGE value="20230911-剑指日常-滑动窗口最大值" />
     <MESSAGE value="20230913-剑指日常-ccc!-&gt;ooo" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230913-剑指日常-ccc!-&gt;ooo" />
+    <MESSAGE value="20230915-剑指日常-nonono | _ |" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230915-剑指日常-nonono | _ |" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
