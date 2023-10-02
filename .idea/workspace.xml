@@ -4,17 +4,19 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230915-剑指日常-nonono | _ |">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/LCR077.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/LCR143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/LCR144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/LCR145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j32_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/j32_3.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230921-onestart -&gt; _ -&gt;">
+      <change afterPath="$PROJECT_DIR$/src/db/d63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/traceBack/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/traceBack/review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/traceBack/tb216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/traceBack/回溯总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jz/j32_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jz/j32_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/d70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/d70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/d746.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/d746.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/traceBack/tb77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/traceBack/tb77.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,25 +49,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "D:/leetCode__",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.language",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/leetCode__&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\leetCode__\src\traceBack\img" />
+    </key>
+  </component>
   <component name="RunManager" selected="应用程序.bat">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -241,6 +248,13 @@
       <workItem from="1695217417066" duration="2423000" />
       <workItem from="1695260455244" duration="11000" />
       <workItem from="1695296604394" duration="8301000" />
+      <workItem from="1695306625653" duration="179000" />
+      <workItem from="1695370602994" duration="8641000" />
+      <workItem from="1695438010767" duration="5303000" />
+      <workItem from="1695554932489" duration="3348000" />
+      <workItem from="1696171768127" duration="599000" />
+      <workItem from="1696211801939" duration="317000" />
+      <workItem from="1696257257274" duration="1399000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -543,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694786342976</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="20230921-onestart -&gt; _ -&gt;">
+      <created>1695306700852</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1695306700852</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,7 +625,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230611_d62——到达有几种方法" />
     <MESSAGE value="20230611_h242——比较错位字符串" />
     <MESSAGE value="20230613_h242——比较错位字符串" />
     <MESSAGE value="20230613_h15, 18, 202——三数之和、四数之和" />
@@ -629,7 +649,8 @@
     <MESSAGE value="20230911-剑指日常-滑动窗口最大值" />
     <MESSAGE value="20230913-剑指日常-ccc!-&gt;ooo" />
     <MESSAGE value="20230915-剑指日常-nonono | _ |" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230915-剑指日常-nonono | _ |" />
+    <MESSAGE value="20230921-onestart -&gt; _ -&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230921-onestart -&gt; _ -&gt;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
