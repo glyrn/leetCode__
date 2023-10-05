@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230921-onestart -&gt; _ -&gt;">
-      <change afterPath="$PROJECT_DIR$/src/db/d63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/LCR129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/LCR148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jz/LCR154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/traceBack/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/traceBack/review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/traceBack/tb216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/traceBack/回溯总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR153.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/db/d70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/d70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/db/d746.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/d746.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/traceBack/tb77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/traceBack/tb77.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,6 +245,8 @@
       <workItem from="1696171768127" duration="599000" />
       <workItem from="1696211801939" duration="317000" />
       <workItem from="1696257257274" duration="1399000" />
+      <workItem from="1696322750187" duration="124000" />
+      <workItem from="1696433376096" duration="2664000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
