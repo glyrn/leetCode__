@@ -4,8 +4,22 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20230921-onestart -&gt; _ -&gt;">
-      <change afterPath="$PROJECT_DIR$/src/jz/LCR153.java" afterDir="false" />
+    <list default="true" id="ced1a038-eae9-41f5-898c-506699b70ab3" name="更改" comment="20231005-LCR153-找到路径[回溯算法]">
+      <change afterPath="$PROJECT_DIR$/src/db/d63_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR174.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR180.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR187.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jz/LCR193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode100/twoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tx/tx122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tx/tx376.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tx/tx455.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tx/tx763.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +61,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/leetCode__&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/gpt_qqbot/ChatGPT-YourChatRobot&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright.filetypes.JAVA&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -63,7 +77,20 @@
       <recent name="D:\leetCode__\src\traceBack\img" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.bat">
+  <component name="RunManager" selected="应用程序.LCR135">
+    <configuration name="LCR135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jz.LCR135" />
+      <module name="leetCode__" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="leetCode__" />
@@ -94,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.LCR135" />
         <item itemvalue="应用程序.bat" />
         <item itemvalue="应用程序.test" />
         <item itemvalue="应用程序.jdbc" />
@@ -246,7 +274,30 @@
       <workItem from="1696211801939" duration="317000" />
       <workItem from="1696257257274" duration="1399000" />
       <workItem from="1696322750187" duration="124000" />
-      <workItem from="1696433376096" duration="2664000" />
+      <workItem from="1696433376096" duration="4121000" />
+      <workItem from="1696599834300" duration="1715000" />
+      <workItem from="1696637112926" duration="2887000" />
+      <workItem from="1696647816160" duration="626000" />
+      <workItem from="1696649618774" duration="161000" />
+      <workItem from="1696733323519" duration="2735000" />
+      <workItem from="1696896011425" duration="4226000" />
+      <workItem from="1696927346317" duration="335000" />
+      <workItem from="1697041398121" duration="741000" />
+      <workItem from="1697188661279" duration="3087000" />
+      <workItem from="1698156756169" duration="307000" />
+      <workItem from="1700158233855" duration="353000" />
+      <workItem from="1700226335652" duration="37000" />
+      <workItem from="1701596804562" duration="4871000" />
+      <workItem from="1702137514436" duration="1387000" />
+      <workItem from="1702213668568" duration="1167000" />
+      <workItem from="1702405888388" duration="793000" />
+      <workItem from="1702827894963" duration="1067000" />
+      <workItem from="1703339702257" duration="59000" />
+      <workItem from="1705772795687" duration="1905000" />
+      <workItem from="1706933063689" duration="767000" />
+      <workItem from="1707328213049" duration="64000" />
+      <workItem from="1708748208606" duration="4158000" />
+      <workItem from="1709321253175" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="20230521_数组76_最短覆盖子序列_hard">
       <created>1684675935335</created>
@@ -556,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695306700852</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="20231005-LCR153-找到路径[回溯算法]">
+      <created>1696472932870</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1696472932870</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,7 +675,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20230611_h242——比较错位字符串" />
     <MESSAGE value="20230613_h242——比较错位字符串" />
     <MESSAGE value="20230613_h15, 18, 202——三数之和、四数之和" />
     <MESSAGE value="20230619_z344翻转字符串" />
@@ -642,7 +699,8 @@
     <MESSAGE value="20230913-剑指日常-ccc!-&gt;ooo" />
     <MESSAGE value="20230915-剑指日常-nonono | _ |" />
     <MESSAGE value="20230921-onestart -&gt; _ -&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230921-onestart -&gt; _ -&gt;" />
+    <MESSAGE value="20231005-LCR153-找到路径[回溯算法]" />
+    <option name="LAST_COMMIT_MESSAGE" value="20231005-LCR153-找到路径[回溯算法]" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
